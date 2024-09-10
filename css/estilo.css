@@ -11,3 +11,9 @@
 footer p a {
 	margin: 5px 15px;
 }
+
+#nav-principal #selecionada {
+    background: #FFF;
+    text-decoration: none;
+    border-radius: 7px;
+}
